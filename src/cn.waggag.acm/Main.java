@@ -13,5 +13,7 @@ public class Main {
         cin = new Scanner(System.in);
         int a = cin.nextInt(), b = cin.nextInt();
         System.out.println(a + b);
+
     }
+
 }
